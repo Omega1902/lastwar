@@ -1,5 +1,7 @@
 # Last War scripts
 
+Collection of scripts to help with the game [Last War](https://www.lastwar.com/)
+
 ## Setup
 
 I use [uv](https://docs.astral.sh/uv/), but feel free to use any other virtual environment manager that you like
@@ -10,4 +12,4 @@ I use [uv](https://docs.astral.sh/uv/), but feel free to use any other virtual e
 
 ## Run Script
 
-´´´python buffs.py´´
+```python buffs.py```
